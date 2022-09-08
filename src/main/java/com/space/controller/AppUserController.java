@@ -14,7 +14,6 @@ import javax.annotation.PostConstruct;
 @RestController
 public class AppUserController {
 
-
     @Autowired
     private AppUserService userService;
 
